@@ -24,6 +24,6 @@ Passionate coder with a knack for building and breaking things. Welcome to my co
 ## 📫 Connect with Me
 
 - LinkedIn: [My Profile](https://www.linkedin.com/in/caleb-shaw79/)
-- Email: [shawcaleb1688@gmail.com](shawcaleb1688@gmail.com)
+- Email: Shawcaleb1688@gmail.com
 
 Let's code something amazing together! 💻✨
