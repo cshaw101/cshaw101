@@ -1,16 +1,29 @@
-### Hi there 👋
+# 👋 Hello World! I'm Caleb!
 
-<!--
-**cshaw101/cshaw101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate coder with a knack for building and breaking things. Welcome to my corner of the code universe! 🚀
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React.js | JavaScript | Node.js | MySQL
+
+## 🚀 What I'm Up To
+
+- Building cool projects that bring ideas to life
+- Exploring the latest trends in web development
+
+## 🌱 Learning
+
+- Devoting time to understanding and implementing state-of-the-art algorithms
+- Always hungry to explore new computational challenges
+
+## 🔧 Fun Facts
+
+- Coded an entire project fueled by nothing but pizza and late-night inspiration! 🍕✨
+- Proficient in writing the "Hello World" program in five distinct programming languages, showcasing a diverse skill set in the coding realm. 🌐💬
+
+## 📫 Connect with Me
+
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/caleb-shaw79/)
+- Email: [email](shawcaleb1688@gmail.com)
+
+Let's code something amazing together! 💻✨
