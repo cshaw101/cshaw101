@@ -4,7 +4,7 @@ Passionate coder with a knack for building and breaking things. Welcome to my co
 
 ## 💻 Tech Stack
 
-- React.js | JavaScript | Node.js | MySQL
+- React.js | JavaScript | Node.js | PostgresSQL
 
 ## 🚀 What I'm Up To
 
